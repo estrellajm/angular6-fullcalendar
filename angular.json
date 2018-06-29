@@ -30,8 +30,7 @@
             "scripts": [
               "node_modules/moment/min/moment.min.js",
               "node_modules/fullcalendar/dist/fullcalendar.min.js",
-              "node_modules/fullcalendar-scheduler/dist/scheduler.min.js",
-              "node_modules/default-passive-events/dist/index.js"
+              "node_modules/fullcalendar-scheduler/dist/scheduler.min.js"
             ]
           },
           "configurations": {
